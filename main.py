@@ -10,7 +10,10 @@ def get_myeongan():
     soup = BeautifulSoup(response.content.decode(
         'utf-8', 'replace'), 'html.parser')
     main = soup.find("p").text
-    return (main)
+    if len(main) <= 100:
+        return(main)
+    else:
+        get_myeongan()
 
 
 @client.event
