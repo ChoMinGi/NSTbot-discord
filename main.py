@@ -1,8 +1,16 @@
 import discord
+import asyncio
+from discord.ext import commands
 import requests
+import os
 from bs4 import BeautifulSoup
 
 client = discord.Client()
+
+token_path = os.path.dirname(os.path.abspath(__file__))+'/token.txt'
+get_token = open(token_path, "r", encoding="utf-8")
+token = get_token.read()
+client.run(token)
 
 
 def get_myeongan():
@@ -29,6 +37,3 @@ async def on_message(message):
     if message.content.startswith('!명언'):
         quote = get_myeongan()
         await message.channel.send(quote)
-
-client.run(
-    'MTAwNDIxMjQ2MjU2MTc4ODA4NA.GIF_AA.mOhuc2GPNQlqMjbH7lWOtxtD3iubxlIdgTPuls')
