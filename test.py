@@ -1,17 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
+import discord
 
 
-def get():
-    response = requests.get("http://munit.co.kr/lucky/today_proverb.php")
-    soup = BeautifulSoup(response.content.decode(
-        'utf-8', 'replace'), 'html.parser')
-    main = soup.find("p").text
-    if len(main) <= 100:
-        print(main)
-    else:
-        print('repeat')
-        get()
+client = discord.Client()
+
+token_path = os.path.dirname(os.path.abspath(__file__))+'/token.txt'
+get_token = open(token_path, "r", encoding="utf-8")
+token = get_token.read()
+client.run(token)
 
 
-get()
+@client.command()
+async def play(ctx):
+    channel = ctx.author.voice.channel
+    await channel.connect()
