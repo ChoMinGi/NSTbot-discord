@@ -1,0 +1,129 @@
+2022-08-31 20:48:15.427  INFO 14224 --- [main] lavalink.server.Launcher                 : Starting Launcher using Java 17.0.1 on DESKTOP-PMO3CJI with PID 14224 (C:\Users\c\Documents\GitHub\Pyiscordbot\Discord-bot\server\Lavalink.jar started by c in C:\Users\c\Documents\GitHub\Pyiscordbot\Discord-bot\server)
+2022-08-31 20:48:15.435  INFO 14224 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:48:16.879  INFO 14224 --- [main] lavalink.server.Launcher                 : Started Launcher in 2.261 seconds (JVM running for 3.221)
+2022-08-31 20:48:16.885  INFO 14224 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/freyacodes/Lavalink/issues/295
+2022-08-31 20:48:16.963  INFO 14224 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.5-rc4
+	Build time:     18.08.2022 16:03:31 UTC
+	Branch          HEAD
+	Commit:         b69f613
+	Commit time:    18.08.2022 15:52:23 UTC
+	JVM:            17.0.1
+	Lavaplayer      1.3.98.4-original
+
+2022-08-31 20:48:16.973  INFO 14224 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:48:18.016  WARN 14224 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2022-08-31 20:48:18.042  INFO 14224 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2022-08-31 20:48:18.043  INFO 14224 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1063 ms
+2022-08-31 20:48:18.137  WARN 14224 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2022-08-31 20:48:18.461  INFO 14224 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2022-08-31 20:48:18.812  INFO 14224 --- [main] lavalink.server.config.KoeConfiguration  : OS: WINDOWS, Arch: X86_64
+2022-08-31 20:48:18.813  INFO 14224 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
+2022-08-31 20:48:18.820  INFO 14224 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2022-08-31 20:48:18.849  INFO 14224 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2022-08-31 20:48:19.250  INFO 14224 --- [main] io.undertow                              : starting server: Undertow - 2.2.16.Final
+2022-08-31 20:48:19.264  INFO 14224 --- [main] org.xnio                                 : XNIO version 3.8.6.Final
+2022-08-31 20:48:19.282  INFO 14224 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.6.Final
+2022-08-31 20:48:19.426  INFO 14224 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2022-08-31 20:48:19.530  INFO 14224 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2022-08-31 20:48:19.539  INFO 14224 --- [main] lavalink.server.Launcher                 : Started Launcher in 2.645 seconds (JVM running for 5.88)
+2022-08-31 20:48:19.541  INFO 14224 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2022-08-31 20:48:55.430  INFO 3176 --- [main] lavalink.server.Launcher                 : Starting Launcher using Java 17.0.1 on DESKTOP-PMO3CJI with PID 3176 (C:\Users\c\Documents\GitHub\Pyiscordbot\Discord-bot\server\Lavalink.jar started by c in C:\Users\c\Documents\GitHub\Pyiscordbot\Discord-bot\server)
+2022-08-31 20:48:55.436  INFO 3176 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:48:56.845  INFO 3176 --- [main] lavalink.server.Launcher                 : Started Launcher in 2.171 seconds (JVM running for 2.846)
+2022-08-31 20:48:56.850  INFO 3176 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/freyacodes/Lavalink/issues/295
+2022-08-31 20:48:56.926  INFO 3176 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.5-rc4
+	Build time:     18.08.2022 16:03:31 UTC
+	Branch          HEAD
+	Commit:         b69f613
+	Commit time:    18.08.2022 15:52:23 UTC
+	JVM:            17.0.1
+	Lavaplayer      1.3.98.4-original
+
+2022-08-31 20:48:56.936  INFO 3176 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:48:57.975  WARN 3176 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2022-08-31 20:48:58.009  INFO 3176 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2022-08-31 20:48:58.011  INFO 3176 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1068 ms
+2022-08-31 20:48:58.130  WARN 3176 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2022-08-31 20:48:58.398  INFO 3176 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2022-08-31 20:48:58.757  INFO 3176 --- [main] lavalink.server.config.KoeConfiguration  : OS: WINDOWS, Arch: X86_64
+2022-08-31 20:48:58.759  INFO 3176 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
+2022-08-31 20:48:58.767  INFO 3176 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2022-08-31 20:48:58.792  INFO 3176 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2022-08-31 20:48:59.184  INFO 3176 --- [main] io.undertow                              : starting server: Undertow - 2.2.16.Final
+2022-08-31 20:48:59.195  INFO 3176 --- [main] org.xnio                                 : XNIO version 3.8.6.Final
+2022-08-31 20:48:59.207  INFO 3176 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.6.Final
+2022-08-31 20:48:59.298  INFO 3176 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2022-08-31 20:48:59.365  INFO 3176 --- [main] io.undertow                              : stopping server: Undertow - 2.2.16.Final
+2022-08-31 20:48:59.368  WARN 3176 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 2333 is already in use
+2022-08-31 20:48:59.370  INFO 3176 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2022-08-31 20:48:59.379 ERROR 3176 --- [main] lavalink.server.Launcher                 : Application failed
+
+org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 2333 is already in use
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:181) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:54) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:356) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:155) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:123) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:935) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:586) ~[spring-context-5.3.18.jar!/:5.3.18]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.builder.SpringApplicationBuilder.run(SpringApplicationBuilder.java:164) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at lavalink.server.Launcher.launchMain(Launcher.kt:157) ~[classes!/:na]
+	at lavalink.server.Launcher.main(Launcher.kt:125) ~[classes!/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49) ~[Lavalink.jar:na]
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108) ~[Lavalink.jar:na]
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58) ~[Lavalink.jar:na]
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88) ~[Lavalink.jar:na]
+Caused by: org.springframework.boot.web.server.PortInUseException: Port 2333 is already in use
+	at org.springframework.boot.web.embedded.undertow.UndertowWebServer.lambda$start$0(UndertowWebServer.java:127) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.web.server.PortInUseException.lambda$ifPortBindingException$1(PortInUseException.java:85) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.web.server.PortInUseException.ifCausedBy(PortInUseException.java:103) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.web.server.PortInUseException.ifPortBindingException(PortInUseException.java:82) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.web.embedded.undertow.UndertowWebServer.start(UndertowWebServer.java:123) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.boot.web.servlet.context.WebServerStartStopLifecycle.start(WebServerStartStopLifecycle.java:43) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:178) ~[spring-context-5.3.18.jar!/:5.3.18]
+	... 22 common frames omitted
+
+2022-08-31 20:48:59.388  INFO 3176 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-31 20:48:59.419 ERROR 3176 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 2333 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 2333 or configure this application to listen on another port.
+
